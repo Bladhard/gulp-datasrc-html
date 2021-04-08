@@ -1,5 +1,5 @@
 const Vinyl = require('vinyl')
-const PluginError = Vinyl.PluginError
+const PluginError = require('plugin-error')
 const through = require('through2')
 
 const pluginName = 'gulp-datasrc-html'
