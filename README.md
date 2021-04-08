@@ -57,4 +57,4 @@ false - by default
 
 ## Donate
 
-<a href="https://www.buymeacoffee.com/bladhard" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style=height="38.25px" !important;width="162.75px"> !important;" ></a>
+<a href="https://www.buymeacoffee.com/bladhard" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="38.25px" width="162.75px"></a>
