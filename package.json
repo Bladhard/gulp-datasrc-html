@@ -1,0 +1,19 @@
+{
+  "name": "gulp-datasrc-html",
+  "version": "1.0.0",
+  "description": "Replace src, srcset to data-src, data-srcset supports lazzyloading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bladhard/gulp-datasrc-html.git"
+  },
+  "author": "bladhard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bladhard/gulp-datasrc-html/issues"
+  },
+  "homepage": "https://github.com/Bladhard/gulp-datasrc-html#readme"
+}
