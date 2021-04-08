@@ -3,6 +3,7 @@
 > Replace `src`, `srcset` to `data-src`, `data-srcset` supports lazzyloading
 
 [![npm (scoped)](https://img.shields.io/npm/v/gulp-datasrc-html.svg?style=flat-square)](https://www.npmjs.com/package/gulp-datasrc-html)
+[![devDependencies Status](https://status.david-dm.org/gh/Bladhard/gulp-datasrc-html.svg?type=dev)](https://david-dm.org/Bladhard/gulp-datasrc-html?type=dev)
 [![License](https://img.shields.io/github/license/bladhard/gulp-datasrc-html.svg?style=flat-square)](https://github.com/Bladhard/gulp-datasrc-html/blob/main/LICENSE)
 ## Install
 
