@@ -33,10 +33,6 @@ npm i --save-dev gulp-datasrc-html
 ```javascript
 var dataHTML = require('gulp-datasrc-html');
 
-
-## Donate
-
-<a href="https://www.buymeacoffee.com/bladhard"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bladhard&button_colour=ffb900&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 gulp.task('html',function(){
     gulp.src('./assets/**/*.html')
         .pipe(dataHTML({ ignore: true, tags: 'header' }))
@@ -58,3 +54,7 @@ false - by default
 ```html
 <header></header> - tag-based ignoring by default
 ```
+
+## Donate
+
+<a href="https://www.buymeacoffee.com/bladhard"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bladhard&button_colour=ffb900&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
