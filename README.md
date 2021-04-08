@@ -1,9 +1,17 @@
 # gulp-datasrc-html
+
+> Replace `src`, `srcset` to `data-src`, `data-srcset` supports lazzyloading
+
+[![npm (scoped)](https://img.shields.io/npm/v/gulp-datasrc-html.svg?style=flat-square)](https://www.npmjs.com/package/gulp-datasrc-html)
+[![License](https://img.shields.io/github/license/exuanbo/gulp-datasrc-html.svg?style=flat-square)](https://github.com/exuanbo/gulp-datasrc-html/blob/master/LICENSE)
 ## Install
+
 ```npm
 npm i --save-dev gulp-datasrc-html
 ```
+
 ## Example
+
 ```html
 // Input
 <img src="./img/img-1.jpg">
@@ -19,7 +27,9 @@ npm i --save-dev gulp-datasrc-html
     <img data-src="./img/img-1.jpg">
 </picture>
 ```
+
 ## Usage
+
 ```javascript
 var dataHTML = require('gulp-datasrc-html');
 
@@ -29,13 +39,18 @@ gulp.task('html',function(){
         .pipe(gulp.dest('./public/'))
 });
 ```
+
 ## Options
+
 ### ignore
+
 ```javascript
 true - Enables tag-based ignoring
 false - by default
 ```
+
 ### tags
+
 ```html
 <header></header> - tag-based ignoring by default
 ```
