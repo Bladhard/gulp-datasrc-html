@@ -3,7 +3,7 @@
 > Replace `src`, `srcset` to `data-src`, `data-srcset` supports lazzyloading
 
 [![npm (scoped)](https://img.shields.io/npm/v/gulp-datasrc-html.svg?style=flat-square)](https://www.npmjs.com/package/gulp-datasrc-html)
-[![License](https://img.shields.io/github/license/exuanbo/gulp-datasrc-html.svg?style=flat-square)](https://github.com/exuanbo/gulp-datasrc-html/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/exuanbo/gulp-datasrc-html.svg?style=flat-square)](https://github.com/bladhard/gulp-datasrc-html/blob/master/LICENSE)
 ## Install
 
 ```npm
