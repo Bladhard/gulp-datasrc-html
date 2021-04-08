@@ -33,6 +33,7 @@ gulp.task('html',function(){
 ### ignore
 ```
 true - Enables tag-based ignoring
+```
 false - by default
 ```
 ### tags
