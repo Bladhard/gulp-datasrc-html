@@ -1,6 +1,6 @@
 # gulp-datasrc-html
 ## Install
-```
+```git
 npm i --save-dev gulp-datasrc-html
 ```
 ## Example
@@ -31,7 +31,7 @@ gulp.task('html',function(){
 ```
 ## Options
 ### ignore
-```
+```html
 true - Enables tag-based ignoring
 false - by default
 ```
