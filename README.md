@@ -1,6 +1,6 @@
 # gulp-datasrc-html
 
-> Replace `src`, `srcset` to `data-src`, `data-srcset` supports lazzyloading
+> Replace `src`, `srcset` to `data-src`, `data-srcset` supports [LazyLoading](https://github.com/Bladhard/lazy-loading)
 
 [![npm (scoped)](https://img.shields.io/npm/v/gulp-datasrc-html.svg?style=flat-square)](https://www.npmjs.com/package/gulp-datasrc-html)
 [![dependencies Status](https://status.david-dm.org/gh/Bladhard/gulp-datasrc-html.svg)](https://david-dm.org/Bladhard/gulp-datasrc-html)
